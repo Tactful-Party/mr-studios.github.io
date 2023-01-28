@@ -93,6 +93,7 @@ nav ul li.active a{
     border-radius: 30px;
     font-size: 14px;
     font-weight: 500;
+    transition: .4s;
 }
 .content .main-text a:hover{
     transform: scale(1.2);
@@ -106,6 +107,7 @@ nav ul li.active a{
     color: white;
     background: transparent;
     margin-left: 20px;
+    transition: .4s;
 }
 .content .main-text a.cta i{
     margin-right: 12px;   
